@@ -1,0 +1,16 @@
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/10h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/13h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/1h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/2h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/3h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/5h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/6h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/7h.jpg
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/8h.png
+1 happiness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/happiness_train/9h.bmp
+2 sadness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/sadness_train/1sa.png
+2 sadness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/sadness_train/4sa.jpg
+2 sadness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/sadness_train/5sa.bmp
+2 sadness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/sadness_train/7sa.png
+2 sadness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/sadness_train/8sa.jpg
+2 sadness /Users/Ore/Documents/Java/FaceRec/Training/ExpressionDataSet/sadness_train/9sa.jpg

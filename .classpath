@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv-2.4.6"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv-android-arm.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/opt/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="/Users/Ore/Downloads/webcam-capture-0/webcam-capture-0.3.10-RC4.jar"/>
+	<classpathentry kind="lib" path="/Users/Ore/Downloads/webcam-capture-0/libs/bridj-0.7-20130703.103049-42.jar"/>
+	<classpathentry kind="lib" path="/Users/Ore/Downloads/webcam-capture-0/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Ore/Downloads/slf4j-1.7.5/slf4j-simple-1.7.5-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
